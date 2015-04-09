@@ -1,0 +1,23 @@
+{
+  "name": "react-native-sockets-io",
+  "version": "1.0.0",
+  "description": "Socket.io that works with react-native",
+  "main": "socket.io-client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crewapp/react-native-sockets-io.git"
+  },
+  "keywords": [
+    "react-native",
+    "sockets.io"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crewapp/react-native-sockets-io/issues"
+  },
+  "homepage": "https://github.com/crewapp/react-native-sockets-io"
+}
